@@ -47,7 +47,7 @@ PYTHON
 ## Tecnologia
 PYTHON
   - Extração de API
-  - Análise, seleção e estruturação dos dados obetidos da API para o Pandas
+  - Análise, seleção e estruturação dos dados obtidos da API para o Pandas
   - Integração com o SQL
   - Análise Descritiva e Visualização de Dados
 
