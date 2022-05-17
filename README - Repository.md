@@ -85,6 +85,7 @@ Tableau
  
  PYTHON
  - Integração com o SQL Server
+ 
  Projeto 1:
  - Análise de volume de vendas, precificação e margem de contribuição
  - Relatório de comparação de resultados da semana passada com a média dos últimos 90, 60 e 30 dias
